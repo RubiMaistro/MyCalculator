@@ -58,7 +58,7 @@ namespace Calculator
             setStatement();
         }
 
-        private void OnSubstract(object sender, RoutedEventArgs e)
+        private void OnSubtract(object sender, RoutedEventArgs e)
         {
             calc.Operator = "-";
             calc.Statement += calc.Operator;

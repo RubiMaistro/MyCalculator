@@ -85,7 +85,7 @@
                     <Button Grid.Column="0" FontSize="20" FontWeight="Bold" Content="1" Background="DeepSkyBlue" Margin="15 10 15 10" Name="oneButton" Click="OnNumber" />
                     <Button Grid.Column="1" FontSize="20" FontWeight="Bold" Content="2" Background="DeepSkyBlue" Margin="15 10 15 10" Name="twoButton" Click="OnNumber" />
                     <Button Grid.Column="2" FontSize="20" FontWeight="Bold" Content="3" Background="DeepSkyBlue" Margin="15 10 15 10" Name="threeButton" Click="OnNumber" />
-                    <Button Grid.Column="3" FontSize="25" FontWeight="Bold" Content="-" Background="DarkOrange" Margin="5 10 10 10" Name="substractButton" Click="OnSubstract"/>
+                    <Button Grid.Column="3" FontSize="25" FontWeight="Bold" Content="-" Background="DarkOrange" Margin="5 10 10 10" Name="subtractButton" Click="OnSubtract"/>
                 </Grid>
                 <Grid Grid.Row="3">
                     <Grid.ColumnDefinitions>
